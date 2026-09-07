@@ -24,8 +24,6 @@
 
 📌 [Код и демо](https://github.com/Alex-top/booking_bot)
 
-[![Портфолио](https://img.shields.io/badge/📚-Портфолио-000000?style=for-the-badge)](https://github.com/Alex-top/portfolio)
-
 ---
 
 ### 🤖 Бот-напоминалка
