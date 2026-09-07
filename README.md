@@ -24,6 +24,8 @@
 
 📌 [Код и демо](https://github.com/Alex-top/booking_bot)
 
+[![Портфолио](https://img.shields.io/badge/📚-Портфолио-000000?style=for-the-badge)](https://github.com/ваш-аккаунт/portfolio)
+
 ---
 
 ### 🤖 Бот-напоминалка
@@ -35,6 +37,8 @@
 **Кому подойдёт:** HR-отделы, логистические компании, event-менеджеры — все, кто работает с дедлайнами.
 
 📌 [Код и демо](https://github.com/Alex-top/bot_reminder)
+
+[![Портфолио](https://img.shields.io/badge/📚-Портфолио-000000?style=for-the-badge)](https://github.com/ваш-аккаунт/portfolio)
 
 ---
 
@@ -49,6 +53,8 @@
 
 📌 [Код и демо](https://github.com/Alex-top/review-bot)
 
+[![Портфолио](https://img.shields.io/badge/📚-Портфолио-000000?style=for-the-badge)](https://github.com/ваш-аккаунт/portfolio)
+
 ---
 
 ### 🛒 Универсальное ядро для интернет-магазина
@@ -61,6 +67,23 @@
 **Кому подойдёт:** интернет-магазины, handmade-маркетплейсы, сервисные компании.
 
 📌 [Код и демо](https://github.com/Alex-top/E-Commerce-Bot-Core)
+
+[![Портфолио](https://img.shields.io/badge/📚-Портфолио-000000?style=for-the-badge)](https://github.com/ваш-аккаунт/portfolio)
+
+---
+
+### 4️⃣ AI-ассистент для анализа текстов (консоль + YandexGPT)
+
+**Краткое описание:**  
+Консольный AI-ассистент, который анализирует текстовые файлы (.txt, .csv, .pdf) с помощью YandexGPT. Определяет тональность, делает суммаризацию, извлекает сущности. Результаты можно сохранять в JSON или CSV.
+
+**Технологии:** Python, YandexGPT API, Click, requests, pdfplumber.
+
+**Что показывает:** Работу с российскими AI-сервисами, обработку файлов разных форматов, создание CLI-инструментов.
+
+[Код и демо](https://github.com/Alex-top/ai-text-analyzer)
+
+[![Портфолио](https://img.shields.io/badge/📚-Портфолио-000000?style=for-the-badge)](https://github.com/ваш-аккаунт/portfolio)
 
 ---
 
