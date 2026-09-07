@@ -38,8 +38,6 @@
 
 📌 [Код и демо](https://github.com/Alex-top/bot_reminder)
 
-[![Портфолио](https://img.shields.io/badge/📚-Портфолио-000000?style=for-the-badge)](https://github.com/ваш-аккаунт/portfolio)
-
 ---
 
 ### 🤖 Бот для сбора отзывов
@@ -52,8 +50,6 @@
 **Кому подойдёт:** магазины, рестораны, гостиницы, службы доставки.
 
 📌 [Код и демо](https://github.com/Alex-top/review-bot)
-
-[![Портфолио](https://img.shields.io/badge/📚-Портфолио-000000?style=for-the-badge)](https://github.com/ваш-аккаунт/portfolio)
 
 ---
 
@@ -68,8 +64,6 @@
 
 📌 [Код и демо](https://github.com/Alex-top/E-Commerce-Bot-Core)
 
-[![Портфолио](https://img.shields.io/badge/📚-Портфолио-000000?style=for-the-badge)](https://github.com/ваш-аккаунт/portfolio)
-
 ---
 
 ### 4️⃣ AI-ассистент для анализа текстов (консоль + YandexGPT)
@@ -82,8 +76,6 @@
 **Что показывает:** Работу с российскими AI-сервисами, обработку файлов разных форматов, создание CLI-инструментов.
 
 [Код и демо](https://github.com/Alex-top/ai-text-analyzer)
-
-[![Портфолио](https://img.shields.io/badge/📚-Портфолио-000000?style=for-the-badge)](https://github.com/ваш-аккаунт/portfolio)
 
 ---
 
